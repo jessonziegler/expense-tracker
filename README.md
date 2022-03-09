@@ -3,7 +3,8 @@
 
 
 
-![Expense Tracker](https://my-expense-and-budget-tracker.netlify.app/) 
+![Expense Tracker]
+https://my-expense-and-budget-tracker.netlify.app/ 
  (Try it out here)
  
  # Tech Stack
