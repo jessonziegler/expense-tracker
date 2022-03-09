@@ -1,9 +1,6 @@
 #  Expense Tracker
 ((AI) Voice powered budget tracker)
 
-
-
-![Expense Tracker]
 https://my-expense-and-budget-tracker.netlify.app/ 
  (Try it out here)
  
